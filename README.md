@@ -1,8 +1,8 @@
-# TÍTULO DO PROJETO
+# Agênca ARIAL 12
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`2023 - 2º Semestre`
 
 ## Integrantes
 
