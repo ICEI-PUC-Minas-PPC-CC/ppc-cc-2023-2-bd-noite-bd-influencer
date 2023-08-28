@@ -6,10 +6,10 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Lerry Henrique Pereira
+- Marcelle Andrade Pereira 
+- Mateus Pereira de Oliveira 
+- Nicolas Martins Lorena
 
 # Documentação
 
