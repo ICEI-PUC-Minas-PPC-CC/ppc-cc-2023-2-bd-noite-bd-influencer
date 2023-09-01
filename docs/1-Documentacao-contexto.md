@@ -29,4 +29,5 @@ Em uma primeira análise foram encontrados os seguintes atributos:
 <br> Influencer: Nome, número de seguidores, imagem., público alvo.
 <br> Engajamento: Meta, número(curtidas, comentários e afins).
 
-<https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Untitled.jpg>
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Untitled.jpg">
+
