@@ -25,7 +25,7 @@ Sendo assim, podemos observar em um contexto que todas as entidades se relaciona
 Em uma primeira análise foram encontrados os seguintes atributos:
 
 <br> Marca: Nome, nicho, imagem .
-<br> Campanha: Nome, Objetivo/objeto, meta, público alvo
+<br> Campanha: Nome, Objetivo/objeto, meta, público alvo, gênero.
 <br> Influencer: Nome, número de seguidores, imagem., público alvo.
 <br> Engajamento: Meta, número(curtidas, comentários e afins).
 
