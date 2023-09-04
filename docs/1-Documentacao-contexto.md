@@ -9,13 +9,12 @@ A segmentação dos influenciadores é realizada com base no número de seguidor
 Uma vez que as campanhas são conduzidas e as interações entre os influenciadores e o público-alvo são efetivadas, torna-se imperativo avaliar o impacto e o sucesso de cada empreitada. Para tal, estabeleceu-se uma métrica de avaliação, fundamentada no retorno obtido por meio das campanhas. Esse retorno é analisado segundo três categorias: alto retorno (superior a 15%), retorno médio (compreendido entre 8% e 15%) e baixo retorno (inferior a 8%). Essa avaliação permite que a agência compreenda a eficácia das suas estratégias, ajuste suas abordagens conforme necessário e oriente futuras ações de maneira mais precisa e informada.
 
 #### 1.1 Entidades Encontradas
-→ Marca;
-<br>→ Campanha; 
-<br><br>
-<br>
-<br>
-→ Influencer; 
-<br>→ Engajamento; 
+<ul>
+<li>→ Marca;</li>
+<li>→ Campanha;</li> 
+<li>→ Influencer;</li> 
+<li>→ Engajamento;</li> 
+</ul>
 
 #### 1.2 Contexto das Entidades
 Após a análise segundo a proposta da Cliente, a Marca foi escolhida como entidade pois ela possue um agrupamento de atributos que definiriam as funcionalidades das demais entidades, a exemplo, uma marca possui um nome característico que participa de um nicho, assim como uma imagem.
@@ -26,16 +25,18 @@ Sendo assim, podemos observar em um contexto que todas as entidades se relaciona
 
 #### 1.3  Levantamento Inicial Entidades x Atributos
 Em uma primeira análise foram encontrados os seguintes atributos:
-
-<br> Marca: Nome, nicho, imagem .
-<br> Campanha: Nome, Objetivo/objeto, meta, público alvo, gênero.
-<br> Influencer: Nome, número de seguidores, imagem., público alvo.
-<br> Engajamento: Meta, número(curtidas, comentários e afins).
+<ul>
+<li> Marca: Nome, nicho, imagem .</li>
+<li> Campanha: Nome, Objetivo/objeto, meta, público alvo, gênero.</li>
+<li> Influencer: Nome, número de seguidores, imagem., público alvo.</li>
+<li> Engajamento: Meta, número(curtidas, comentários e afins).</li>
+</ul>
 
 #### 2.0 Relacionamentos Encontrados
-<br> A Marca Propõe uma Campanha / a Campanha é Proposta pela Marca.
-<br> A Campanha Designa um Influencer / o Influencer e Designado Pela Campanha
-<br> O Influencer Gera Engajamento / o Engajamento e Gerado pelo Influencer
-
+<ul>
+<li> A Marca Propõe uma Campanha / a Campanha é Proposta pela Marca.</li>
+<li> A Campanha Designa um Influencer / o Influencer e Designado Pela Campanha</li>
+<li> O Influencer Gera Engajamento / o Engajamento e Gerado pelo Influencer</li>
+</ul>
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Untitled.jpg">
 
