@@ -11,7 +11,10 @@ Uma vez que as campanhas são conduzidas e as interações entre os influenciado
 #### 1.1 Entidades Encontradas
 → Marca;
 <br>→ Campanha; 
-<br>→ Influencer; 
+<br><br>
+<br>
+<br>
+→ Influencer; 
 <br>→ Engajamento; 
 
 #### 1.2 Contexto das Entidades
@@ -28,6 +31,11 @@ Em uma primeira análise foram encontrados os seguintes atributos:
 <br> Campanha: Nome, Objetivo/objeto, meta, público alvo, gênero.
 <br> Influencer: Nome, número de seguidores, imagem., público alvo.
 <br> Engajamento: Meta, número(curtidas, comentários e afins).
+
+#### 2.0 Relacionamentos Encontrados
+<br> A Marca Propõe uma Campanha / a Campanha é Proposta pela Marca.
+<br> A Campanha Designa um Influencer / o Influencer e Designado Pela Campanha
+<br> O Influencer Gera Engajamento / o Engajamento e Gerado pelo Influencer
 
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Untitled.jpg">
 
