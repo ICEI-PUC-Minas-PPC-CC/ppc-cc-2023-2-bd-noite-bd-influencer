@@ -26,17 +26,17 @@ Sendo assim, podemos observar em um contexto que todas as entidades se relaciona
 #### 1.3  Levantamento Inicial Entidades x Atributos
 Em uma primeira análise foram encontrados os seguintes atributos:
 <ul>
-<li> Marca: Nome, nicho, imagem .</li>
-<li> Campanha: Nome, Objetivo/objeto, meta, público alvo, gênero.</li>
-<li> Influencer: Nome, número de seguidores, imagem., público alvo.</li>
+<li> Marca: Razão Social, nome Fantasia, CNPJ, endereço, publico.</li>
+<li> Campanha: ID da campanha, Nome, Objetivo/objeto, meta, público alvo, gênero, tempo de execução.</li>
+<li> Influencer: Nome, CPF, numero de telefone, endereço, número de seguidores, imagem, seguimento </li>
 <li> Engajamento: Meta, número(curtidas, comentários e afins).</li>
 </ul>
 
 #### 2.0 Relacionamentos Encontrados
 <ul>
-<li> A Marca Propõe uma Campanha / a Campanha é Proposta pela Marca.</li>
-<li> A Campanha Designa um Influencer / o Influencer e Designado Pela Campanha</li>
-<li> O Influencer Gera Engajamento / o Engajamento e Gerado pelo Influencer</li>
+<li> A Marca Propõe uma Campanha / A Campanha é proposta pela Marca.</li>
+<li> A Campanha atribui um Influencer que atendente o objetivo da Marca/ O Influencer é escolhido de acordo com Campanha</li>
+<li> O Influencer Gera Engajamento / O Engajamento é Gerado pelo Influencer</li>
 </ul>
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Untitled.jpg">
 
