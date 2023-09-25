@@ -27,7 +27,7 @@ Sendo assim, podemos observar em um contexto que todas as entidades se relaciona
 Em uma primeira análise foram encontrados os seguintes atributos:
 <ul>
 <li> Marca: Razão Social, nome Fantasia, CNPJ, endereço, publico.</li>
-<li> Campanha: ID da campanha, Nome, Objetivo/objeto, meta, público alvo, gênero, tempo de execução.</li>
+<li> Campanha: ID da campanha, Nome, meta, público alvo, gênero, tempo de execução.</li>
 <li> Influencer: Nome, CPF, numero de telefone, endereço, número de seguidores, imagem, seguimento </li>
 <li> Engajamento: Meta, número(curtidas, comentários e afins).</li>
 </ul>
