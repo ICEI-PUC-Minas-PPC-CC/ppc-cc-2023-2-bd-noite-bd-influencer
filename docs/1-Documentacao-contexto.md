@@ -38,5 +38,11 @@ Em uma primeira análise foram encontrados os seguintes atributos:
 <li> A Campanha atribui um Influencer que atendente o objetivo da Marca/ O Influencer é escolhido de acordo com Campanha</li>
 <li> O Influencer Gera Engajamento / O Engajamento é Gerado pelo Influencer</li>
 </ul>
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Untitled.jpg">
 
+#### 3.0 Modelo Logico
+
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Modelo Logico.jpg">
+
+#### 3.1 Modelo Conceitual
+
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Modelo Conceitual.jpg">
