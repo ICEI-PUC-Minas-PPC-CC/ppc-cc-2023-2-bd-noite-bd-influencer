@@ -32,14 +32,14 @@ Em uma primeira análise foram encontrados os seguintes atributos:
 <li> Engajamento: Meta, Número (curtidas, comentários e afins), ID do Engajamento.</li>
 </ul>
 
-#### 2.0 Relacionamentos Encontrados
+# 2.0 Relacionamentos Encontrados
 <ul>
 <li> A marca propõe uma campanha / A campanha é proposta pela marca.</li>
 <li> A campanha é atribuida a um influencer que atendente o objetivo da marca/ O influencer é escolhido de acordo com campanha</li>
 <li> O influencer gera engajamento / O engajamento é gerado pelo influencer</li>
 </ul>
 
-#### 3.0 Modelo Logico
+# 3.0 Modelo Logico
 
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Imagem1.png">
 
@@ -47,7 +47,7 @@ Em uma primeira análise foram encontrados os seguintes atributos:
 
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Modelo Conceitual.jpg">
 
-#### 4.0 Regra de Negócio 
+# 4.0 Regra de Negócio 
 
 1. O código relativo à campanha foi inicialmente pensado para ser composto pelas três primeiras letras da abreviação do nome da campanha, juntamente com os três números existentes no CNPJ antes do sufixo 0001.
 
