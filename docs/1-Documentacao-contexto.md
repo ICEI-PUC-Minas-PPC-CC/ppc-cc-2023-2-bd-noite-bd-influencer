@@ -26,17 +26,17 @@ Sendo assim, podemos observar em um contexto que todas as entidades se relaciona
 #### 1.3  Levantamento Inicial Entidades x Atributos
 Em uma primeira análise foram encontrados os seguintes atributos:
 <ul>
-<li> Marca: Razão Social, nome Fantasia, CNPJ, endereço, publico.</li>
-<li> Campanha: ID da campanha, Nome, meta, público alvo, gênero, tempo de execução.</li>
-<li> Influencer: Nome, CPF, numero de telefone, endereço, número de seguidores, imagem, seguimento </li>
-<li> Engajamento: Meta, número(curtidas, comentários e afins).</li>
+<li> Marca: Razão Social, Nome Fantasia, CNPJ, Endereço, Público, Telefone.</li>
+<li> Campanha: Código da Campanha, Nome, Meta, Público Alvo, Duração.</li>
+<li> Influencer: Nome, CPF, Número de telefone, Número de seguidores, Imagem </li>
+<li> Engajamento: Meta, Número (curtidas, comentários e afins), ID do Engajamento.</li>
 </ul>
 
 #### 2.0 Relacionamentos Encontrados
 <ul>
-<li> A Marca Propõe uma Campanha / A Campanha é proposta pela Marca.</li>
-<li> A Campanha atribui um Influencer que atendente o objetivo da Marca/ O Influencer é escolhido de acordo com Campanha</li>
-<li> O Influencer Gera Engajamento / O Engajamento é Gerado pelo Influencer</li>
+<li> A marca propõe uma campanha / A campanha é proposta pela marca.</li>
+<li> A campanha é atribuida a um influencer que atendente o objetivo da marca/ O influencer é escolhido de acordo com campanha</li>
+<li> O influencer gera engajamento / O engajamento é gerado pelo influencer</li>
 </ul>
 
 #### 3.0 Modelo Logico
