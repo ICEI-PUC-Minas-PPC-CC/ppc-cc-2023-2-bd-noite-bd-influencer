@@ -46,3 +46,9 @@ Em uma primeira análise foram encontrados os seguintes atributos:
 #### 3.1 Modelo Conceitual
 
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Modelo Conceitual.jpg">
+
+#### 4.0 Regra de Negócio 
+
+1. O código relativo à campanha foi inicialmente pensado para ser composto pelas três primeiras letras da abreviação do nome da campanha, juntamente com os três números existentes no CNPJ antes do sufixo 0001.
+
+2. O influenciador deverá ter um contrato de exclusividade com a marca em decorrência daquela campanha.
