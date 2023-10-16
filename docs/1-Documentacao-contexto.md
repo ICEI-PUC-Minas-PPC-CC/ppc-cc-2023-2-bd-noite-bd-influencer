@@ -41,11 +41,11 @@ Em uma primeira análise foram encontrados os seguintes atributos:
 
 # 3.0 Modelo Logico
 
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Imagem1.png">
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Imagens/Imagem1.png">
 
 #### 3.1 Modelo Conceitual
 
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Modelo Conceitual.jpg">
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-bd-noite-bd-influencer/blob/main/Imagens/Modelo Conceitual.jpg">
 
 # 4.0 Regra de Negócio 
 
