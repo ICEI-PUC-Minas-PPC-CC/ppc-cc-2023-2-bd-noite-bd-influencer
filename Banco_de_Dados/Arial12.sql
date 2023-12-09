@@ -19,7 +19,6 @@ CREATE TABLE Campanha (
     CONSTRAINT fk_mrc_CNPJ FOREIGN KEY (fk_mrc_CNPJ) REFERENCES Marca (mrc_CNPJ)
 );
 
--- Criação da Tabela Influencer
 CREATE TABLE Influencer (
     inf_CPF BIGINT PRIMARY KEY AUTO_INCREMENT,
     inf_nome VARCHAR(45) NOT NULL,
@@ -30,7 +29,6 @@ CREATE TABLE Influencer (
     CONSTRAINT fk_camp_codigo FOREIGN KEY (fk_camp_codigo) REFERENCES Campanha (camp_codigo)
 );
 
--- Criação da Tabela Engajamento
 CREATE TABLE Engajamento (
     eng_id INT PRIMARY KEY AUTO_INCREMENT,
     eng_numatual INT NOT NULL,
