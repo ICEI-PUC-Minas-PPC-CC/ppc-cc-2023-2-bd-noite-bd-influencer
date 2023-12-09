@@ -1,3 +1,4 @@
+-- Criação da Tabela Marca
 CREATE TABLE Marca (
     mrc_CNPJ BIGINT PRIMARY KEY AUTO_INCREMENT,
     mrc_razaosocial VARCHAR(50) NOT NULL,
@@ -7,6 +8,7 @@ CREATE TABLE Marca (
     mrc_telefone VARCHAR(20) NOT NULL
 );
 
+-- Criação da Tabela Campanha
 CREATE TABLE Campanha (
     camp_codigo INT PRIMARY KEY AUTO_INCREMENT,
     camp_nome VARCHAR(45) NOT NULL,
